@@ -1,0 +1,11 @@
+{
+    "Configure seu arquivo aqui e renomeie para config.json": "Configure your file here and rename to config.json",
+    "BOT": {
+        "BOT_TOKEN": "YOUR_BOT_TOKEN",
+        "gruoup_megasena_id": "YOUR_GROUP_ID"
+    },
+    "mensagens": {
+        "fala": "Fala o que?",
+        "pimba": "PIMBA!"
+    }
+}
